@@ -15,3 +15,4 @@ Para trabajar con esta API, se manejan diversos tipos de datos fundamentales que
 
 ## Reflexion
 
+En definitiva el Dom es la piedra angular de la arquictetura web, se podria decir que son los planos que hacen que todo pueda estar en su lugar, los lenguajes serian inutiles en la programación de paginas web, el hecho de que sea independiente de los lenguajes y permitan 
