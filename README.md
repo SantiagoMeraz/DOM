@@ -18,9 +18,10 @@ Adicionalmente, el DOM permite la gestión de atributos (como enlaces o clases) 
 
 ## Reflexion
 
-En definitiva el Dom es la piedra angular de la arquictetura web, se podria decir que son los planos que hacen que todo pueda estar en su lugar, los lenguajes serian inutiles en la programación de paginas web, el hecho de que sea independiente de los lenguajes y permitan 
+El DOM representa la evolución del contenido estático a la interfaz interactiva. Su verdadera importancia no radica solo en la organización jerárquica de la información, sino en cómo democratiza el control del documento, permitiendo que un script externo pueda "dar vida" a un archivo HTML o XML.  
+
+Desde el diseño de productos digitales, el DOM es el puente que convierte una página web en una herramienta funcional que reacciona al usuario en tiempo real. Al ser un modelo independiente de cualquier lenguaje, garantiza que la estructura de la información sea universal, permitiendo que la creatividad técnica no tenga límites de plataforma. En última instancia, entender el DOM es comprender que la web no es un objeto terminado, sino un organismo dinámico capaz de transformarse para mejorar la experiencia humana.
 
 ## Conclusión
 
 El estudio del Modelo de Objeto de Documento (DOM) permite comprender la arquitectura fundamental sobre la cual se construye la web moderna e interactiva. Al actuar como una interfaz de programación estandarizada, el DOM elimina la barrera entre el código estático de un documento y la lógica dinámica de los lenguajes de programación, facilitando que los elementos de una página sean tratados como objetos manipulables en tiempo real. Esta estructura de árbol no solo organiza la información de manera jerárquica, sino que otorga a los desarrolladores el control total sobre la experiencia del usuario, permitiendo desde cambios visuales sutiles hasta la creación completa de contenidos sin necesidad de recargar el sitio.
-
